@@ -1,0 +1,1425 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Nivel Alto Conflictividad/Okupacion</name>
+		<Placemark>
+			<name>Reyes Catolicos-Alcala de Henares</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.3853340000000003,40.478374,0.0 -3.3850230000000003,40.477133,0.0 -3.3883110000000003,40.47631700000001,0.0 -3.388016,40.475534,0.0 -3.387378,40.475636,0.0 -3.386525,40.474138,0.0 -3.38409,40.474897000000006,0.0 -3.382566,40.472563,0.0 -3.380506,40.4728,0.0 -3.3794439999999994,40.47321199999999,0.0 -3.376236,40.471159,0.0 -3.3754740000000005,40.470547,0.0 -3.3743369999999997,40.470955000000004,0.0 -3.36879,40.473208,0.0 -3.372384,40.476574,0.0 -3.3729150000000003,40.476438,0.0 -3.3734810000000004,40.47699,0.0 -3.3743199,40.4768994,0.0 -3.3738274,40.4773315,0.0 -3.3742517,40.4776823,0.0 -3.3744692,40.4781596,0.0 -3.3731778,40.478544799999995,0.0 -3.374262,40.48061,0.0 -3.3853340000000003,40.478374,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Veracruz-Alcala de Henares</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.37026,40.490684,0.0 -3.3708659999999995,40.491495,0.0 -3.37224,40.491042,0.0 -3.372245,40.490826,0.0 -3.3727489999999998,40.490647,0.0 -3.373854,40.490859,0.0 -3.3747770000000004,40.490598000000006,0.0 -3.3744170000000007,40.489823,0.0 -3.374235,40.489778,0.0 -3.3737150000000002,40.48999800000001,0.0 -3.37239,40.48981400000001,0.0 -3.37026,40.490684,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Cabra-Torrejon de Ardoz</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.4895963000000005,40.4611036,0.0 -3.4882343,40.4572746,0.0 -3.484072,40.458148,0.0 -3.4851765,40.461707,0.0 -3.4855249000000006,40.4618094,0.0 -3.4895963000000005,40.4611036,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Hortensia-Torrejon de Ardoz</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.479372,40.462483,0.0 -3.4792219999999996,40.461928,0.0 -3.4792438,40.4612701,0.0 -3.4783320000000004,40.461144,0.0 -3.4778170000000004,40.460205,0.0 -3.4774729999999994,40.460311,0.0 -3.476593,40.461242000000006,0.0 -3.476239,40.462883,0.0 -3.476508,40.462932,0.0 -3.479372,40.462483,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Jose-Torrejon de Ardoz</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.4835990000000003,40.455258,0.0 -3.48405,40.45436,0.0 -3.4840009999999997,40.454287,0.0 -3.4820440000000006,40.454401,0.0 -3.4816469999999993,40.454367999999995,0.0 -3.48037,40.45467,0.0 -3.4804990000000005,40.455568,0.0 -3.4835990000000003,40.455258,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Villares-Torrejon de Ardoz</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.4825429999999997,40.462936,0.0 -3.4826819999999996,40.46290299999999,0.0 -3.48257,40.461907,0.0 -3.481797,40.462173,0.0 -3.480295,40.462495,0.0 -3.480402,40.462744,0.0 -3.4808049999999997,40.462662,0.0 -3.4808739999999996,40.462801,0.0 -3.4815340000000004,40.462666,0.0 -3.4816360000000004,40.46287,0.0 -3.4823550000000005,40.462707,0.0 -3.4825429999999997,40.462936,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sorozabal-Torrejon de Ardoz</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.4855039999999997,40.463164,0.0 -3.485241,40.46212,0.0 -3.4843990000000002,40.462483,0.0 -3.4846189999999995,40.463307,0.0 -3.4855039999999997,40.463164,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Cristobal-Madrid</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.692436,40.33967500000001,0.0 -3.687072,40.339708,0.0 -3.6857840000000004,40.34082,0.0 -3.6849480000000003,40.34045999999999,0.0 -3.683853,40.340395,0.0 -3.6839599999999995,40.34432,0.0 -3.6870929999999995,40.344369,0.0 -3.687072,40.345154,0.0 -3.692536,40.34512699999999,0.0 -3.692436,40.33967500000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Avd Ciudades-Getafe</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.725454,40.319138,0.0 -3.7259959999999994,40.316316,0.0 -3.722256,40.316058,0.0 -3.722262,40.31571,0.0 -3.720738999999999,40.314842999999996,0.0 -3.7212539999999996,40.314319,0.0 -3.719602,40.31342000000001,0.0 -3.7218329999999993,40.311014,0.0 -3.719965999999999,40.310131,0.0 -3.719087,40.31101400000001,0.0 -3.7180999999999997,40.311374,0.0 -3.718014,40.310474000000006,0.0 -3.714452,40.310523,0.0 -3.714452,40.31286299999999,0.0 -3.7191670000000006,40.315371,0.0 -3.719189,40.315575,0.0 -3.725454,40.319138,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Mirasierra-Fuenlabrada</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.8018970000000007,40.289355,0.0 -3.802702000000001,40.28922,0.0 -3.8014410000000005,40.288021,0.0 -3.799183,40.288443,0.0 -3.7998640000000004,40.289613,0.0 -3.8018970000000007,40.289355,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Turquia-Fuenlabrada</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.809090999999999,40.281281,0.0 -3.8101530000000006,40.281244,0.0 -3.810335,40.281019,0.0 -3.809804,40.277664,0.0 -3.809262,40.277,0.0 -3.8082590000000005,40.277123,0.0 -3.8089840000000006,40.280467,0.0 -3.809037,40.280716999999996,0.0 -3.809090999999999,40.281281,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Palmilla-Malaga</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.434378000000001,36.739048,0.0 -4.433413000000001,36.737182,0.0 -4.433058,36.737122,0.0 -4.429872,36.738179,0.0 -4.429754,36.737577,0.0 -4.426997,36.737921,0.0 -4.426105999999999,36.73968399999999,0.0 -4.426128,36.740303,0.0 -4.426846000000001,36.742444000000006,0.0 -4.428155,36.742787,0.0 -4.4306980000000005,36.741996,0.0 -4.432157,36.742581,0.0 -4.433563,36.74211700000001,0.0 -4.432887,36.741343,0.0 -4.432543999999999,36.740535,0.0 -4.432629,36.740079,0.0 -4.433981,36.739692000000005,0.0 -4.434378000000001,36.739048,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Manuel Gorria-Malaga</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.4226198,36.7362356,0.0 -4.4226618,36.7357376,0.0 -4.4225768,36.7351436,0.0 -4.4213748,36.7352556,0.0 -4.4207308,36.735255599999995,0.0 -4.4201628,36.7349546,0.0 -4.4198088,36.7349806,0.0 -4.419293799999999,36.7351006,0.0 -4.4191428,36.7356256,0.0 -4.4192608,36.7359266,0.0 -4.419271800000001,36.73617560000001,0.0 -4.4196258,36.7365966,0.0 -4.4218678,36.7362446,0.0 -4.4226198,36.7362356,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Guadalupe-La Linea de la Concepcion</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.357932,36.164622,0.0 -5.358158,36.16352200000001,0.0 -5.3570150000000005,36.162712,0.0 -5.355905,36.162405,0.0 -5.355603999999999,36.163241,0.0 -5.356897000000001,36.163599999999995,0.0 -5.356742,36.164436,0.0 -5.357932,36.164622,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Telmo-Jerez de la Frontera</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-6.131755,36.674339,0.0 -6.131723,36.672377,0.0 -6.129179999999999,36.672472,0.0 -6.128161000000001,36.673840000000006,0.0 -6.128644000000001,36.674296,0.0 -6.129910000000001,36.67495000000001,0.0 -6.130768000000001,36.674968,0.0 -6.130779,36.67433100000001,0.0 -6.131755,36.674339,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3000 viviendas-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.969309999999999,37.369201999999994,0.0 -5.974288,37.363063,0.0 -5.97579,37.362415,0.0 -5.972357,37.354194,0.0 -5.969868,37.355456,0.0 -5.962744,37.35702500000001,0.0 -5.961242,37.358117,0.0 -5.959268000000001,37.36105,0.0 -5.969309999999999,37.369201999999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>3 Barrios-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.958752,37.387123,0.0 -5.958796,37.38656,0.0 -5.959546,37.381258,0.0 -5.954053,37.380985,0.0 -5.953925000000001,37.382791999999995,0.0 -5.953495000000001,37.386936,0.0 -5.958752,37.387123,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Parchis-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.913622,37.407826,0.0 -5.913042,37.408112,0.0 -5.913434,37.408692,0.0 -5.913595,37.408755,0.0 -5.914286999999999,37.408692,0.0 -5.913622,37.407826,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Vacie-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.977668000000001,37.420592,0.0 -5.980049,37.417226,0.0 -5.979587999999999,37.417073,0.0 -5.977260000000001,37.42014000000001,0.0 -5.977346,37.420353,0.0 -5.977668000000001,37.420592,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Poligono Norte-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.978665,37.414346,0.0 -5.982206000000001,37.413408,0.0 -5.982807,37.412896999999994,0.0 -5.981261999999999,37.411994,0.0 -5.980811,37.411500000000004,0.0 -5.980189,37.410085,0.0 -5.978751,37.410545000000006,0.0 -5.979481000000001,37.4123,0.0 -5.977828,37.41265800000001,0.0 -5.978665,37.414346,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Begoña-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.975082,37.408968,0.0 -5.976713,37.409155999999996,0.0 -5.978279000000001,37.40861,0.0 -5.978859,37.407537,0.0 -5.976691,37.406335,0.0 -5.976444,37.406599,0.0 -5.97668,37.406727,0.0 -5.975295999999999,37.40836300000001,0.0 -5.975082,37.408968,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Bachillera-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.987935,37.41398800000001,0.0 -5.985682,37.41403,0.0 -5.985575,37.417473,0.0 -5.987935,37.41398800000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Virgen de los Reyes-Sevilla</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.957111,37.376194,0.0 -5.95739,37.375047,0.0 -5.956301,37.374335,0.0 -5.955598000000001,37.375981,0.0 -5.957111,37.376194,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Los Montecillos-Dos Hermanas</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.917565,37.274599,0.0 -5.918713000000001,37.273839,0.0 -5.920333,37.27372799999999,0.0 -5.920589999999999,37.273599999999995,0.0 -5.92044,37.272029,0.0 -5.919163,37.272183,0.0 -5.918980999999999,37.271124,0.0 -5.914979,37.27155100000001,0.0 -5.917565,37.274599,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Los Potros-Dos Hermanas</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.928207999999999,37.29576,0.0 -5.929270000000001,37.294822,0.0 -5.929474000000001,37.294402999999996,0.0 -5.9292050000000005,37.294181,0.0 -5.929484,37.293985,0.0 -5.929022999999999,37.293609999999994,0.0 -5.927863999999999,37.29419,0.0 -5.926651999999999,37.294762000000006,0.0 -5.927639,37.2953,0.0 -5.928207999999999,37.29576,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Los Asperones-Malaga</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.503139,36.722288999999996,0.0 -4.503697,36.721678000000004,0.0 -4.503997999999999,36.720896,0.0 -4.5053920000000005,36.72080100000001,0.0 -4.505284999999999,36.71945900000001,0.0 -4.503235999999999,36.71971700000001,0.0 -4.501926999999999,36.720242000000006,0.0 -4.501314999999999,36.720388,0.0 -4.500929,36.721076,0.0 -4.501079,36.721773,0.0 -4.501702,36.722117,0.0 -4.501754999999999,36.72231399999999,0.0 -4.502548999999999,36.722753000000004,0.0 -4.502989,36.722210999999994,0.0 -4.503139,36.722288999999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Corta-Malaga</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.446759,36.737027000000005,0.0 -4.4469520000000005,36.735995,0.0 -4.44663,36.735445,0.0 -4.447124,36.73528999999999,0.0 -4.447296,36.734963,0.0 -4.447231,36.73462,0.0 -4.446244,36.734138,0.0 -4.445987,36.734155,0.0 -4.445751,36.734379000000004,0.0 -4.445836,36.735479,0.0 -4.446759,36.737027000000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lo Campano-Cartagena</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.963042,37.596943,0.0 -0.964286,37.596807,0.0 -0.964479,37.59656900000001,0.0 -0.965531,37.597010999999995,0.0 -0.9660670000000001,37.596841000000005,0.0 -0.966475,37.596348,0.0 -0.964029,37.594988,0.0 -0.9620329999999999,37.59410400000001,0.0 -0.9601659999999997,37.593526,0.0 -0.959866,37.59265800000001,0.0 -0.959308,37.59208,0.0 -0.958729,37.59254,0.0 -0.95787,37.594478,0.0 -0.958815,37.595141,0.0 -0.959845,37.59415500000001,0.0 -0.9621590000000002,37.595467,0.0 -0.962012,37.596722,0.0 -0.963042,37.596943,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cañada Real-Madrid</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.5370669999999995,40.422937999999995,0.0 -3.5373129999999997,40.42288099999999,0.0 -3.5375330000000003,40.422342,0.0 -3.5375979999999996,40.42181099999999,0.0 -3.537705,40.421493,0.0 -3.539314,40.41941,0.0 -3.5400120000000004,40.418332,0.0 -3.5412989999999995,40.416927,0.0 -3.5422220000000006,40.41608500000001,0.0 -3.542801,40.41547299999999,0.0 -3.54322,40.41539900000001,0.0 -3.54425,40.414668000000006,0.0 -3.545135,40.41385499999999,0.0 -3.545725,40.413427,0.0 -3.5458700000000003,40.413745000000006,0.0 -3.547397,40.41311999999999,0.0 -3.549225,40.412336,0.0 -3.548365,40.412009,0.0 -3.547914,40.412001,0.0 -3.547018,40.41252399999999,0.0 -3.545709,40.412671,0.0 -3.546009,40.41133099999999,0.0 -3.545408,40.409992,0.0 -3.545022,40.407949,0.0 -3.5450439999999994,40.407198,0.0 -3.5451720000000004,40.40626600000001,0.0 -3.5456439999999994,40.40527,0.0 -3.544786,40.40321099999999,0.0 -3.5443139999999995,40.402132,0.0 -3.543778,40.400041,0.0 -3.5433060000000007,40.398374,0.0 -3.543026,40.39692,0.0 -3.543155,40.394549999999995,0.0 -3.543048,40.391968000000006,0.0 -3.54337,40.391232,0.0 -3.5443139999999995,40.39139599999999,0.0 -3.544464,40.390971,0.0 -3.5439060000000002,40.38977800000001,0.0 -3.5447650000000004,40.38856800000001,0.0 -3.5457730000000005,40.387065,0.0 -3.5462449999999994,40.38603500000001,0.0 -3.546438,40.38428600000001,0.0 -3.548777,40.38193299999999,0.0 -3.5494850000000002,40.381034,0.0 -3.549786,40.379759,0.0 -3.549292,40.377781,0.0 -3.5494209999999997,40.37706200000001,0.0 -3.5508589999999995,40.375769999999996,0.0 -3.5514159999999997,40.374364,0.0 -3.551738,40.372435,0.0 -3.551567,40.370686,0.0 -3.551502,40.36914900000001,0.0 -3.5522959999999997,40.367662,0.0 -3.5530899999999996,40.366076,0.0 -3.554399,40.365389,0.0 -3.557789,40.36382,0.0 -3.5589910000000002,40.36293700000001,0.0 -3.561244,40.36187399999999,0.0 -3.561158,40.360419,0.0 -3.5606860000000005,40.360255,0.0 -3.5575100000000006,40.362757,0.0 -3.5549140000000006,40.364179,0.0 -3.553112,40.365258,0.0 -3.551953,40.366239,0.0 -3.551502,40.367645,0.0 -3.550859,40.369313,0.0 -3.550687,40.37057200000001,0.0 -3.550451,40.37282799999999,0.0 -3.550151,40.374904,0.0 -3.54912,40.375901,0.0 -3.5484980000000004,40.376588000000005,0.0 -3.5482620000000002,40.377045,0.0 -3.548541,40.38008599999999,0.0 -3.5483700000000002,40.380788,0.0 -3.5458379999999994,40.383337999999995,0.0 -3.5446790000000004,40.38512000000001,0.0 -3.543563,40.387294,0.0 -3.5427259999999996,40.389451,0.0 -3.54219,40.391494,0.0 -3.541911,40.393341,0.0 -3.54219,40.397753,0.0 -3.543198,40.401773,0.0 -3.543649,40.402917,0.0 -3.544593,40.405662,0.0 -3.543756,40.405384,0.0 -3.5434659999999996,40.405735,0.0 -3.5441480000000003,40.406189,0.0 -3.544078,40.406740000000006,0.0 -3.5439330000000004,40.407247,0.0 -3.543295,40.407198,0.0 -3.5432889999999997,40.4075,0.0 -3.5439060000000002,40.40759800000001,0.0 -3.5441530000000006,40.409003000000006,0.0 -3.543949,40.40924,0.0 -3.543735,40.41022,0.0 -3.5434130000000006,40.411478,0.0 -3.543799,40.412262,0.0 -3.5433270000000006,40.413439,0.0 -3.5424259999999994,40.414582,0.0 -3.540559,40.41646099999999,0.0 -3.539379,40.41749,0.0 -3.5381989999999996,40.419238,0.0 -3.5372539999999995,40.420741,0.0 -3.5364600000000004,40.42132900000001,0.0 -3.536761,40.421803,0.0 -3.536675,40.422832,0.0 -3.5370669999999995,40.422937999999995,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Cañada Real II-Madrid</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.614384,40.320299,0.0 -3.613579,40.319897999999995,0.0 -3.612442,40.32097,0.0 -3.611283,40.322213,0.0 -3.6102640000000004,40.322811,0.0 -3.608708,40.32367800000001,0.0 -3.6030860000000002,40.326434000000006,0.0 -3.601885,40.32729299999999,0.0 -3.6010260000000005,40.328659,0.0 -3.600415000000001,40.329567,0.0 -3.598183,40.330892,0.0 -3.5976039999999996,40.33126,0.0 -3.597164,40.331047,0.0 -3.5966490000000007,40.331391,0.0 -3.5968850000000003,40.3322,0.0 -3.5962739999999993,40.33304300000001,0.0 -3.594954000000001,40.333918,0.0 -3.5948680000000004,40.334842,0.0 -3.593677,40.33556999999999,0.0 -3.592218,40.336363,0.0 -3.589396,40.337606,0.0 -3.588163,40.33817,0.0 -3.587325999999999,40.338448,0.0 -3.586897,40.339013,0.0 -3.585759,40.339356,0.0 -3.5830659999999996,40.340984000000006,0.0 -3.5810059999999995,40.342554,0.0 -3.577552,40.344574,0.0 -3.57282,40.34840799999999,0.0 -3.5714040000000002,40.34925100000001,0.0 -3.5712329999999994,40.349658999999996,0.0 -3.5694839999999997,40.351589000000004,0.0 -3.567585,40.353878,0.0 -3.5645270000000004,40.356519,0.0 -3.563572,40.357508,0.0 -3.56413,40.35777,0.0 -3.5661150000000004,40.356225,0.0 -3.5682070000000006,40.354271000000004,0.0 -3.570063,40.35230899999999,0.0 -3.5704919999999998,40.351924,0.0 -3.5717049999999997,40.352374,0.0 -3.572542,40.34998600000001,0.0 -3.573325,40.349120000000006,0.0 -3.57811,40.345628,0.0 -3.5779379999999996,40.34521900000001,0.0 -3.579032,40.344516,0.0 -3.579333,40.344729,0.0 -3.5831839999999993,40.342194,0.0 -3.584172,40.341548,0.0 -3.584944,40.341049,0.0 -3.585352,40.340648,0.0 -3.5852869999999997,40.34015000000001,0.0 -3.587444,40.33898800000001,0.0 -3.587809,40.339234,0.0 -3.5923249999999998,40.337253999999994,0.0 -3.595029,40.335341,0.0 -3.59608,40.334826,0.0 -3.5972180000000002,40.33300200000001,0.0 -3.599246,40.331072,0.0 -3.600147,40.330409,0.0 -3.601542000000001,40.329583,0.0 -3.602808,40.327857,0.0 -3.6045130000000003,40.326949,0.0 -3.6044810000000003,40.326753,0.0 -3.606144,40.325812,0.0 -3.605918999999999,40.32553399999999,0.0 -3.6069599999999995,40.325035,0.0 -3.6071420000000005,40.32530500000001,0.0 -3.6103279999999995,40.323727,0.0 -3.6115409999999994,40.323031,0.0 -3.612399,40.322361,0.0 -3.6130430000000007,40.321371,0.0 -3.614384,40.320299,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Lluis Millet-Lleida</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>0.6130889999999999,41.613894,0.0 0.6121979999999999,41.613614,0.0 0.611544,41.613372999999996,0.0 0.609771,41.61276900000001,0.0 0.608525,41.61239799999999,0.0 0.608521,41.61225000000001,0.0 0.608663,41.611985,0.0 0.609441,41.611167,0.0 0.6113720000000001,41.610204,0.0 0.6125949999999999,41.610012000000005,0.0 0.6141080000000001,41.610036,0.0 0.615749,41.609763,0.0 0.6159210000000002,41.60988400000001,0.0 0.614988,41.610822,0.0 0.6140109999999999,41.61208899999999,0.0 0.6134640000000001,41.61308399999999,0.0 0.613228,41.61379,0.0 0.6130889999999999,41.613894,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Jaramiel-Valladolid</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.721031000000001,41.635027,0.0 -4.721138,41.634858,0.0 -4.720656,41.632284,0.0 -4.720376999999999,41.63225200000001,0.0 -4.719154,41.634979,0.0 -4.721031000000001,41.635027,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Basilio Boggiero-Zaragoza</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.890772,41.65676199999999,0.0 -0.8910840000000001,41.655800000000006,0.0 -0.886116,41.654757999999994,0.0 -0.885955,41.655191,0.0 -0.885837,41.655808,0.0 -0.890772,41.65676199999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Francisco-Bilbao</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.926762,43.259518,0.0 -2.929487,43.25744,0.0 -2.931397,43.257315,0.0 -2.9317829999999994,43.25665899999999,0.0 -2.931633,43.255815000000005,0.0 -2.9307749999999997,43.255862,0.0 -2.9303460000000006,43.254299,0.0 -2.929294,43.25469,0.0 -2.9289289999999997,43.253971,0.0 -2.9272980000000004,43.254533,0.0 -2.926848,43.255346,0.0 -2.9251960000000006,43.255018,0.0 -2.9264399999999995,43.256581,0.0 -2.927298,43.257393,0.0 -2.9275559999999996,43.25833099999999,0.0 -2.927256,43.258831,0.0 -2.9265050000000006,43.259378,0.0 -2.926762,43.259518,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Iturralde-Bilbao</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.9192729999999996,43.260378,0.0 -2.920647,43.259472,0.0 -2.92129,43.25894,0.0 -2.920668,43.258768,0.0 -2.920625,43.258128,0.0 -2.921441,43.258159,0.0 -2.921462,43.257737,0.0 -2.919209,43.25755,0.0 -2.917471,43.256612,0.0 -2.916269,43.25583,0.0 -2.916119,43.256284,0.0 -2.915089,43.255846,0.0 -2.914789,43.254658000000006,0.0 -2.913652,43.255112,0.0 -2.9145740000000004,43.255939999999995,0.0 -2.914231,43.25642400000001,0.0 -2.914681,43.257393,0.0 -2.9157330000000004,43.25729900000001,0.0 -2.916591,43.257549999999995,0.0 -2.917235,43.258143,0.0 -2.917578,43.258753,0.0 -2.9175570000000004,43.259268000000006,0.0 -2.917342,43.259675,0.0 -2.918479,43.259987,0.0 -2.9192729999999996,43.260378,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Uretamendi-Bilbao</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.950237,43.252564,0.0 -2.953284,43.24950100000001,0.0 -2.951739,43.24757799999999,0.0 -2.9519320000000002,43.24701600000001,0.0 -2.951632,43.246656,0.0 -2.9509880000000006,43.246719,0.0 -2.950151,43.24725,0.0 -2.9493359999999997,43.246688,0.0 -2.9486490000000005,43.246484,0.0 -2.948134,43.247375,0.0 -2.94719,43.248266,0.0 -2.946932,43.249266,0.0 -2.949293,43.249516,0.0 -2.948906,43.25133,0.0 -2.9492710000000004,43.251861,0.0 -2.950237,43.252564,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Otxarkoaga-Bilbao</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.9005190000000005,43.256502,0.0 -2.899232,43.257971,0.0 -2.899082,43.25755,0.0 -2.8988240000000003,43.257424,0.0 -2.8982450000000006,43.257378,0.0 -2.898266,43.256956,0.0 -2.8996610000000005,43.25494,0.0 -2.898631,43.254549000000004,0.0 -2.8977079999999997,43.255377,0.0 -2.896507,43.255784000000006,0.0 -2.89494,43.256174,0.0 -2.894468,43.256659,0.0 -2.894039,43.25753400000001,0.0 -2.8935880000000003,43.25837800000001,0.0 -2.893739,43.259253,0.0 -2.894704,43.260097,0.0 -2.896035,43.261019,0.0 -2.897172,43.2618,0.0 -2.8981800000000004,43.262816,0.0 -2.899489,43.2633,0.0 -2.9005620000000003,43.26348800000001,0.0 -2.9017000000000004,43.26248799999999,0.0 -2.901485,43.26100300000001,0.0 -2.9016350000000006,43.260439999999996,0.0 -2.90215,43.26015900000001,0.0 -2.902966000000001,43.26015900000001,0.0 -2.9035020000000005,43.259847,0.0 -2.902644,43.258643000000006,0.0 -2.901592,43.257971,0.0 -2.9011199999999997,43.25755,0.0 -2.901228,43.25736199999999,0.0 -2.900734,43.25690900000001,0.0 -2.900906,43.256628000000006,0.0 -2.9005190000000005,43.256502,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Atxuri-Bilbao</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.9188120000000004,43.255291,0.0 -2.92011,43.255268,0.0 -2.9205820000000005,43.25505700000001,0.0 -2.9210329999999995,43.255221,0.0 -2.9215159999999996,43.255549,0.0 -2.921923,43.255987,0.0 -2.9224709999999994,43.255518,0.0 -2.922503,43.255284,0.0 -2.9227600000000002,43.254822000000004,0.0 -2.9223529999999998,43.254549000000004,0.0 -2.9220309999999996,43.254182,0.0 -2.9218049999999995,43.253642,0.0 -2.921902,43.252962999999994,0.0 -2.922084,43.252486,0.0 -2.9222340000000004,43.251845,0.0 -2.9219450000000005,43.251462000000004,0.0 -2.9213870000000006,43.250876,0.0 -2.9210009999999995,43.251111,0.0 -2.920539,43.2514,0.0 -2.918973,43.250939,0.0 -2.918104,43.25133,0.0 -2.918115,43.251633999999996,0.0 -2.917997,43.251954999999995,0.0 -2.9177610000000005,43.25222000000001,0.0 -2.917568,43.25263400000001,0.0 -2.9173639999999996,43.25298600000001,0.0 -2.9171700000000005,43.253142000000004,0.0 -2.917675,43.253838,0.0 -2.9181040000000005,43.254354000000006,0.0 -2.918662,43.25483,0.0 -2.918769,43.255072,0.0 -2.9188120000000004,43.255291,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Grupo Urdanoz-Pamplona</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.676381,42.801525,0.0 -1.6778080000000002,42.801128,0.0 -1.6781400000000002,42.800927,0.0 -1.678339,42.800604,0.0 -1.6783760000000003,42.800309,0.0 -1.678081,42.800026,0.0 -1.6764450000000002,42.80025,0.0 -1.676381,42.801525,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Centro-Lleida</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>0.626961,41.622204,0.0 0.624515,41.621145000000006,0.0 0.619514,41.619008,0.0 0.6189059999999998,41.61844,0.0 0.617064,41.616528,0.0 0.618183,41.616672,0.0 0.617136,41.61487600000001,0.0 0.620259,41.614155,0.0 0.6197959999999999,41.613232,0.0 0.6194629999999999,41.612331,0.0 0.620782,41.611446,0.0 0.6188080000000001,41.610253,0.0 0.6171120000000001,41.60930100000001,0.0 0.6176970000000002,41.60876900000001,0.0 0.621315,41.610187,0.0 0.6220580000000001,41.610915999999996,0.0 0.622342,41.610728,0.0 0.624889,41.613055,0.0 0.626532,41.61415099999999,0.0 0.627304,41.614889,0.0 0.62878,41.61583100000001,0.0 0.630212,41.616308,0.0 0.631674,41.6167,0.0 0.6337900000000001,41.617259000000004,0.0 0.6343320000000002,41.617512000000005,0.0 0.635126,41.61808099999999,0.0 0.632583,41.620138,0.0 0.633119,41.62062400000001,0.0 0.6325720000000001,41.62110500000001,0.0 0.630421,41.622661,0.0 0.628796,41.62323000000001,0.0 0.62827,41.623872,0.0 0.627519,41.624225,0.0 0.6261879999999999,41.624642,0.0 0.625695,41.624032,0.0 0.626446,41.62358700000001,0.0 0.626146,41.623415,0.0 0.626961,41.622204,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Pexos-Figueres</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.98164,42.268822,0.0 2.980825,42.26895699999999,0.0 2.980921,42.267568,0.0 2.9813289999999997,42.267607999999996,0.0 2.981415,42.266925,0.0 2.98385,42.266964,0.0 2.982531,42.268854,0.0 2.98164,42.268822,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Virgen del Remedio-Alicante</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.493805,38.376284,0.0 -0.49397700000000005,38.374938,0.0 -0.49344100000000013,38.374871,0.0 -0.49264699999999995,38.372549,0.0 -0.49228200000000005,38.372516,0.0 -0.491746,38.373071,0.0 -0.490029,38.372986,0.0 -0.489342,38.3726,0.0 -0.488849,38.37012699999999,0.0 -0.48708900000000005,38.37036200000001,0.0 -0.48728200000000005,38.37117,0.0 -0.48646700000000004,38.371303999999995,0.0 -0.485973,38.368831,0.0 -0.48337699999999995,38.368932,0.0 -0.48369900000000005,38.37103499999999,0.0 -0.48327,38.371102,0.0 -0.483291,38.371573000000005,0.0 -0.480373,38.371876,0.0 -0.480072,38.37233,0.0 -0.479429,38.372414,0.0 -0.4790420000000002,38.372919,0.0 -0.47872099999999995,38.372919,0.0 -0.47854899999999995,38.373659,0.0 -0.47889199999999993,38.374331999999995,0.0 -0.479386,38.37465199999999,0.0 -0.4800720000000001,38.37477,0.0 -0.47996500000000003,38.375544000000005,0.0 -0.480201,38.376031,0.0 -0.480094,38.37675500000001,0.0 -0.480416,38.377394,0.0 -0.485222,38.37694,0.0 -0.485072,38.376317,0.0 -0.4854160000000002,38.37583000000001,0.0 -0.487518,38.375678,0.0 -0.48762600000000006,38.376519,0.0 -0.488076,38.376856,0.0 -0.493805,38.376284,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Los Junquillos-La Linea de la Concepcion</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.363195,36.170932,0.0 -5.363452,36.16797,0.0 -5.364311,36.16693,0.0 -5.359418,36.164349,0.0 -5.3585400000000005,36.1666,0.0 -5.356607,36.166307,0.0 -5.355899000000001,36.166393,0.0 -5.356499999999999,36.168195,0.0 -5.3567149999999994,36.170395,0.0 -5.359805,36.170534,0.0 -5.363195,36.170932,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Bernardo-La Linea de la Concepcion</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.337762,36.170084,0.0 -5.341817999999999,36.170413,0.0 -5.343255,36.170379,0.0 -5.344575,36.170102,0.0 -5.345368999999999,36.17026599999999,0.0 -5.346034,36.170422,0.0 -5.346249,36.17011,0.0 -5.346634999999999,36.17024899999999,0.0 -5.347,36.170232000000006,0.0 -5.346850000000001,36.168404,0.0 -5.346560000000001,36.168231000000006,0.0 -5.346453,36.167954,0.0 -5.346485,36.167529,0.0 -5.345766,36.167295,0.0 -5.344606999999999,36.167148,0.0 -5.3427940000000005,36.167079,0.0 -5.3421069999999995,36.16688799999999,0.0 -5.341516999999999,36.167572,0.0 -5.337934000000001,36.167356,0.0 -5.337687,36.16966,0.0 -5.337762,36.170084,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Atunara-La Linea de la Concepcion</name>
+			<description><![CDATA[Precio compra: <br>Precio mínimo: <br>m2 Totales: <br>Latitud: <br>Longitud:]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.338690000000001,36.17654400000001,0.0 -5.339205,36.174621,0.0 -5.339806000000001,36.17429200000001,0.0 -5.340921999999999,36.172248,0.0 -5.340342000000001,36.17195400000001,0.0 -5.341823,36.170412000000006,0.0 -5.337767999999999,36.170083,0.0 -5.337489,36.172526,0.0 -5.336373,36.17573,0.0 -5.336609000000001,36.176163,0.0 -5.338690000000001,36.17654400000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Ciutat Meridiana-Barcelona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.1797347,41.46295820000001,0.0 2.1786404,41.4636497,0.0 2.1774173,41.4635371,0.0 2.1768808,41.4635371,0.0 2.174542,41.4639552,0.0 2.1743917,41.4636175,0.0 2.174263,41.46263660000001,0.0 2.1737266,41.46249190000001,0.0 2.172997,41.46265270000001,0.0 2.1722674,41.4621542,0.0 2.1699071,41.4611733,0.0 2.1692204000000004,41.4610286,0.0 2.1682978,41.46107680000001,0.0 2.1682119,41.4605462,0.0 2.1685982000000004,41.4599833,0.0 2.1677399,41.4598225,0.0 2.1665382,41.45974209999999,0.0 2.1662806999999997,41.4590024,0.0 2.1665812,41.4585039,0.0 2.1670532000000002,41.4584396,0.0 2.1675253,41.4585361,0.0 2.1687269000000002,41.45852,0.0 2.1693063,41.45888980000001,0.0 2.1726751000000006,41.4594688,0.0 2.1736621999999994,41.4590185,0.0 2.1744131999999996,41.4588255,0.0 2.1755504999999995,41.4590024,0.0 2.1761727,41.45911499999999,0.0 2.1773744,41.4599673,0.0 2.179606,41.4613984,0.0 2.1800780000000004,41.4613663,0.0 2.1805501,41.4610447,0.0 2.1807647,41.4605301,0.0 2.1813869,41.46067479999999,0.0 2.1804214,41.4617683,0.0 2.1797347,41.46295820000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Mina-Barcelona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.220397,41.42149059999999,0.0 2.2170925000000006,41.4189161,0.0 2.2198393,41.4152152,0.0 2.2234225,41.4193345,0.0 2.220397,41.42149059999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Vilacipina i la Torre Llobeta-Barcelona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.1773313999999995,41.4255292,0.0 2.1772027,41.42823210000001,0.0 2.1791339,41.4278943,0.0 2.1841120999999997,41.42768509999999,0.0 2.18467,41.4277495,0.0 2.1829104,41.4301627,0.0 2.1661305,41.4304362,0.0 2.1641992999999995,41.43087059999999,0.0 2.1645855999999997,41.4305006,0.0 2.1662164,41.4296318,0.0 2.1635556,41.4280873,0.0 2.1697354,41.4272346,0.0 2.17098,41.4269128,0.0 2.1759796,41.4255614,0.0 2.1773313999999995,41.4255292,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Los Palmerales-Elche</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.6831479,38.265613,0.0 -0.6835127,38.2654782,0.0 -0.6850362,38.263001499999994,0.0 -0.6815386,38.2612493,0.0 -0.6813024999999999,38.2606428,0.0 -0.680809,38.2601373,0.0 -0.6799078,38.2606933,0.0 -0.6788349,38.2613504,0.0 -0.6779121999999999,38.26185589999999,0.0 -0.6775045,38.262277100000006,0.0 -0.6774830999999999,38.2625298,0.0 -0.682075,38.2649898,0.0 -0.6831479,38.265613,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Camp Claro-Tarragona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>1.19928,41.1171165,0.0 1.1987436,41.1164699,0.0 1.1989153,41.1160334,0.0 1.199795,41.1155161,0.0 1.2003958,41.1152251,0.0 1.2006319,41.1150473,0.0 1.2167251,41.1153868,0.0 1.2159956,41.1163891,0.0 1.2149012,41.1160011,0.0 1.2144721,41.1162436,0.0 1.2105668,41.117262,0.0 1.2115538,41.1189109,0.0 1.211468,41.119218,0.0 1.2079275,41.119024,0.0 1.2079275,41.1180703,0.0 1.2068546,41.1183774,0.0 1.2059976,41.1169971,0.0 1.2047947,41.1171003,0.0 1.2047732,41.117747,0.0 1.2044299,41.1177631,0.0 1.2041295,41.1175045,0.0 1.2041724,41.1171003,0.0 1.2030995,41.1170842,0.0 1.2018979,41.116874,0.0 1.19928,41.1171165,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Torreforta-Tarragona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>1.2159634000000001,41.1164457,0.0 1.2168429000000003,41.1154597,0.0 1.2216711,41.1155727,0.0 1.2216925999999997,41.11628399999999,0.0 1.2199113000000001,41.118902899999995,0.0 1.2198060000000002,41.120781,0.0 1.2195468,41.12166700000001,0.0 1.2200403,41.12268530000001,0.0 1.2154913000000003,41.123671300000005,0.0 1.2133025999999998,41.121812399999996,0.0 1.2143539999999997,41.1200667,0.0 1.2156843999999998,41.1205516,0.0 1.2173581,41.1169791,0.0 1.2159634000000001,41.1164457,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bonavista-Tarragona</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>1.1897635000000002,41.1208911,0.0 1.1902571,41.11992119999999,0.0 1.1895275,41.1179652,0.0 1.1895704,41.1172701,0.0 1.1903214,41.117043800000005,0.0 1.1900425000000001,41.11644570000001,0.0 1.1902571,41.1159122,0.0 1.1915445000000002,41.1160739,0.0 1.1938189999999997,41.1155889,0.0 1.1937547000000002,41.116284,0.0 1.1941624,41.1179006,0.0 1.1944412999999998,41.117803599999995,0.0 1.1953488000000003,41.1211314,0.0 1.1939907,41.1224105,0.0 1.1934757000000003,41.1230248,0.0 1.1922097,41.122119600000005,0.0 1.1920810000000002,41.121764000000006,0.0 1.1897635000000002,41.1208911,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Son Banya-Palma</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.7153717999999993,39.5573729,0.0 2.7153718,39.5562728,0.0 2.7181613,39.5553546,0.0 2.7182686,39.5573316,0.0 2.7153717999999993,39.5573729,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Son Gotleu-Palma</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.6704073,39.58381279999999,0.0 2.6695704,39.58326709999999,0.0 2.6710725,39.5819275,0.0 2.6695490000000004,39.5809683,0.0 2.6699567,39.580588,0.0 2.6686907,39.5797776,0.0 2.6707935000000003,39.5775284,0.0 2.6719952000000005,39.5761391,0.0 2.6728964000000004,39.5737574,0.0 2.6758361,39.5745182,0.0 2.6760076999999995,39.57471670000001,0.0 2.676115,39.575279,0.0 2.6765013000000004,39.5753617,0.0 2.6764368,39.5769659,0.0 2.6759863,39.57787570000001,0.0 2.6747417,39.57946340000001,0.0 2.6704073,39.58381279999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Juan XXIII-Alicante</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.47755120000000006,38.3718426,0.0 -0.47849540000000007,38.370521999999994,0.0 -0.47607060000000007,38.370160299999995,0.0 -0.4749333999999999,38.3700677,0.0 -0.47167180000000003,38.3699247,0.0 -0.4716611,38.3715482,0.0 -0.47221899999999994,38.3727762,0.0 -0.4726589000000001,38.3727846,0.0 -0.4766823,38.3718257,0.0 -0.4771972,38.3717921,0.0 -0.47755120000000006,38.3718426,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Milagrosa-Albacete</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.8413579000000002,38.99316350000001,0.0 -1.8436646000000008,38.9927715,0.0 -1.8436646000000008,38.99297169999999,0.0 -1.8442011000000003,38.9926214,0.0 -1.8448555,38.99188759999999,0.0 -1.8418837,38.99003640000001,0.0 -1.8414329999999999,38.9900531,0.0 -1.8403816,38.99057839999999,0.0 -1.8405962,38.9914874,0.0 -1.8407248999999999,38.9925214,0.0 -1.8408751,38.9928299,0.0 -1.8412131000000007,38.9931406,0.0 -1.8413579000000002,38.99316350000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Arroyo-Fuenlabrada</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.8011515,40.2769719,0.0 -3.8020527,40.2762925,0.0 -3.8021814999999997,40.2756786,0.0 -3.802245900000001,40.275253,0.0 -3.8004970999999994,40.2751056,0.0 -3.7992311,40.2755231,0.0 -3.7991452000000003,40.27625160000001,0.0 -3.7996066,40.2769637,0.0 -3.800067900000001,40.2768573,0.0 -3.8011515,40.2769719,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Fortuna-Leganes</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7810564000000007,40.3609993,0.0 -3.781785999999999,40.3598466,0.0 -3.7820971,40.35994470000001,0.0 -3.7828695999999997,40.3587348,0.0 -3.7837492999999998,40.3562903,0.0 -3.7754988000000003,40.3553624,0.0 -3.7750697,40.35681350000001,0.0 -3.7769365,40.356960699999995,0.0 -3.7765074,40.3574676,0.0 -3.7795544,40.3588084,0.0 -3.7784922,40.3597649,0.0 -3.7784922,40.3607377,0.0 -3.778739,40.36103200000001,0.0 -3.7799621000000005,40.3616779,0.0 -3.7803482999999996,40.361792300000005,0.0 -3.780723800000001,40.3616452,0.0 -3.7810564000000007,40.3609993,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Rio Alberche-Navalcarnero</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.0100527,40.294126199999994,0.0 -4.010106300000001,40.2934879,0.0 -4.0092802,40.2924731,0.0 -4.0084863,40.2917694,0.0 -4.008261,40.2914584,0.0 -4.0072739,40.2911965,0.0 -4.007252399999999,40.291663,0.0 -4.0068232,40.2925632,0.0 -4.0060186,40.2930296,0.0 -4.0058148,40.29344700000001,0.0 -4.005782599999999,40.2937497,0.0 -4.0065336,40.294019799999994,0.0 -4.0088832,40.2940689,0.0 -4.0100527,40.294126199999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona de los Enanos-Aranjuez</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.5907428999999995,40.0351373,0.0 -3.590560500000001,40.0370266,0.0 -3.593028199999999,40.0366405,0.0 -3.5930067,40.0368294,0.0 -3.5948306000000003,40.03660769999999,0.0 -3.5949379,40.03538369999999,0.0 -3.5907428999999995,40.0351373,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Sindicato-Getafe</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.727144,40.312581,0.0 -3.7271547,40.312507399999994,0.0 -3.7257493,40.311284300000004,0.0 -3.7248694999999996,40.3119347,0.0 -3.7257868,40.312204699999995,0.0 -3.727144,40.312581,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>San Nicasio-Leganes</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.772033500000001,40.3340732,0.0 -3.7726878999999998,40.3326338,0.0 -3.7716686999999998,40.3321267,0.0 -3.7712609999999995,40.33317360000001,0.0 -3.771325300000001,40.33399140000001,0.0 -3.772033500000001,40.3340732,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Saladillo-Algeciras</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.4500556,36.1189489,0.0 -5.4500771,36.1175969,0.0 -5.450356000000001,36.1175449,0.0 -5.4507422000000005,36.1172502,0.0 -5.451600600000001,36.11664360000001,0.0 -5.4530168,36.1162622,0.0 -5.4529524,36.1154128,0.0 -5.4532743,36.1148581,0.0 -5.454604599999999,36.11400879999999,0.0 -5.454454400000001,36.11367940000001,0.0 -5.453939400000001,36.1137314,0.0 -5.4529738,36.1136967,0.0 -5.4514718,36.1135061,0.0 -5.450720799999999,36.113592700000005,0.0 -5.446944199999999,36.1158289,0.0 -5.446987200000001,36.1168862,0.0 -5.4468155,36.117232900000005,0.0 -5.4472232,36.1191569,0.0 -5.4500556,36.1189489,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Bajadilla-Algeciras</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.4578447,36.1341488,0.0 -5.4582953,36.1336463,0.0 -5.4589605,36.1330224,0.0 -5.4596901,36.1324505,0.0 -5.4610634000000005,36.1304921,0.0 -5.4606986,36.130457500000006,0.0 -5.4595828,36.130717399999995,0.0 -5.458896200000001,36.1306828,0.0 -5.4582739,36.1307521,0.0 -5.457844699999999,36.131064,0.0 -5.457308300000001,36.13109870000001,0.0 -5.4558706,36.1331957,0.0 -5.4578447,36.1341488,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Chanca Pescaderia-Almeria</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-2.4761188,36.8375745,0.0 -2.4754643,36.8394206,0.0 -2.4757326000000006,36.8409748,0.0 -2.4747241,36.84099189999999,0.0 -2.4744451,36.8412152,0.0 -2.4744344,36.8429496,0.0 -2.4750352000000007,36.8428981,0.0 -2.4750458999999996,36.8433274,0.0 -2.4746168,36.8435335,0.0 -2.4748528,36.843851099999995,0.0 -2.4759364,36.8434304,0.0 -2.4774385,36.8429067,0.0 -2.4779534000000005,36.8424774,0.0 -2.4774491999999997,36.841842,0.0 -2.4779104999999997,36.8411379,0.0 -2.4781358,36.840279300000006,0.0 -2.4788439000000007,36.840451,0.0 -2.4788439,36.8410435,0.0 -2.4794877,36.8414041,0.0 -2.4799919,36.84094040000001,0.0 -2.4808930999999994,36.84099189999999,0.0 -2.4813223,36.84089749999999,0.0 -2.4816120000000006,36.8411465,0.0 -2.4820088999999994,36.8408202,0.0 -2.4820411000000004,36.84044240000001,0.0 -2.4812794000000005,36.8394807,0.0 -2.4813867,36.83898270000001,0.0 -2.4819016,36.8389827,0.0 -2.4821055,36.8388024,0.0 -2.4818480000000003,36.8383044,0.0 -2.4820089,36.8382872,0.0 -2.4823201000000004,36.8384933,0.0 -2.4824166000000005,36.8384504,0.0 -2.4822128000000006,36.837952300000005,0.0 -2.4826097,36.8371366,0.0 -2.4823201,36.8371538,0.0 -2.4816871,36.83764320000001,0.0 -2.4815798000000004,36.8376861,0.0 -2.481215,36.8369906,0.0 -2.480818,36.8370593,0.0 -2.4794984,36.83754020000001,0.0 -2.4792945000000004,36.837565899999994,0.0 -2.4789834,36.8374972,0.0 -2.4788117,36.8374028,0.0 -2.4770308000000005,36.8372654,0.0 -2.4764514,36.8373942,0.0 -2.4761188,36.8375745,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Las 600-Cartagena</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.9787595000000001,37.61718890000001,0.0 -0.98068,37.6170869,0.0 -0.9805834000000003,37.6161096,0.0 -0.9807873,37.6152598,0.0 -0.9804332000000001,37.6149283,0.0 -0.9800466000000001,37.614871300000004,0.0 -0.9802507999999999,37.6142399,0.0 -0.9755728999999999,37.613500499999994,0.0 -0.9762167000000002,37.6142569,0.0 -0.9760773000000001,37.6151153,0.0 -0.9757876000000001,37.61559119999999,0.0 -0.9772037999999998,37.6162031,0.0 -0.9773862,37.6165005,0.0 -0.9779119,37.616526,0.0 -0.9787595000000001,37.61718890000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Santa Anna-Gandia</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.18626330000000002,38.975433200000005,0.0 -0.1864672,38.97504949999999,0.0 -0.1867783,38.9748994,0.0 -0.18718600000000002,38.9740236,0.0 -0.1877868,38.9731895,0.0 -0.1873577,38.9730394,0.0 -0.1868105,38.97352320000001,0.0 -0.1860058,38.9752664,0.0 -0.18626330000000002,38.975433200000005,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Cabañal-Valencia
+</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.3295041,39.4809573,0.0 -0.3298474,39.4788705,0.0 -0.3300083,39.4757318,0.0 -0.3284311,39.4750818,0.0 -0.326575,39.4748126,0.0 -0.3267361,39.4808248,0.0 -0.3280986,39.4807917,0.0 -0.3295041,39.4809573,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Puerto Sagunto-Valencia
+</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.23946759999999997,39.672941,0.0 -0.23963930000000003,39.6719418,0.0 -0.2399397000000001,39.6703727,0.0 -0.23750420000000003,39.6696294,0.0 -0.2369356,39.6707443,0.0 -0.23665670000000003,39.6723051,0.0 -0.2391672,39.67304010000001,0.0 -0.23946759999999997,39.672941,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tres Forques-Valencia
+</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.40795329999999996,39.4666879,0.0 -0.408597,39.4667045,0.0 -0.4085004,39.4661496,0.0 -0.4083395,39.4661081,0.0 -0.4083288,39.4658265,0.0 -0.40985230000000006,39.465544900000005,0.0 -0.4098415,39.46535440000001,0.0 -0.4089832,39.465371,0.0 -0.4087472,39.4640043,0.0 -0.40684820000000005,39.4642776,0.0 -0.4069768999999999,39.4656692,0.0 -0.4079318,39.46577680000001,0.0 -0.40795329999999996,39.4666879,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>La Fama-Murcia</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.119597,37.9903793,0.0 -1.1201334,37.9896352,0.0 -1.1218071000000003,37.98958450000001,0.0 -1.1215925,37.9875213,0.0 -1.1197901000000001,37.9875382,0.0 -1.1196398999999997,37.9857963,0.0 -1.1161637,37.986033,0.0 -1.1160993999999997,37.9857624,0.0 -1.1153269000000001,37.98584700000001,0.0 -1.1158204000000003,37.9870139,0.0 -1.1157559999999997,37.9876904,0.0 -1.1161423000000001,37.988705100000004,0.0 -1.1167216000000002,37.9893816,0.0 -1.1175585,37.989872,0.0 -1.119597,37.9903793,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Torrent-Valencia</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.4691505,39.4413634,0.0 -0.46969769999999994,39.4410486,0.0 -0.4682744,39.4411016,0.0 -0.46826000000000007,39.44067570000001,0.0 -0.4677773,39.4406674,0.0 -0.46776650000000003,39.4401537,0.0 -0.4655886,39.4407088,0.0 -0.4665326999999999,39.4418274,0.0 -0.4680133000000001,39.4414794,0.0 -0.4691505,39.4413634,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Catarroja-Valencia</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.4082644,39.4070359,0.0 -0.40839309999999995,39.4063479,0.0 -0.407728,39.4061738,0.0 -0.40835020000000005,39.4038609,0.0 -0.4072452,39.403645399999995,0.0 -0.4064405,39.4060329,0.0 -0.4067945,39.406065999999996,0.0 -0.4066122,39.4067127,0.0 -0.4082644,39.4070359,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Raval San Roc-Algemesi Valencia
+</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.4449677,39.19637610000001,0.0 -0.4466200000000001,39.1953119,0.0 -0.44694190000000006,39.1955114,0.0 -0.447371,39.1951622,0.0 -0.44477459999999996,39.1933163,0.0 -0.44430260000000005,39.193732,0.0 -0.44288639999999996,39.1927176,0.0 -0.44196370000000007,39.1934826,0.0 -0.44157739999999995,39.1947132,0.0 -0.4449677,39.19637610000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Espiritu Santo-Murcia</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-1.1565256000000002,38.0135439,0.0 -1.1592722,38.0123097,0.0 -1.1607312999999997,38.0120899,0.0 -1.1621260999999998,38.0124619,0.0 -1.1608385999999997,38.010162599999994,0.0 -1.1603236,38.00892840000001,0.0 -1.16189,38.0083198,0.0 -1.1611605000000003,38.007000999999995,0.0 -1.1582208,38.0083198,0.0 -1.1575984999999998,38.0075928,0.0 -1.1564183000000001,38.00813380000001,0.0 -1.1562037,38.0078464,0.0 -1.1555171000000002,38.0082014,0.0 -1.1553884,38.0079817,0.0 -1.1547661000000002,38.0083029,0.0 -1.1549163,38.0087594,0.0 -1.1549594,38.0094864,0.0 -1.1553025,38.0100443,0.0 -1.1550664999999998,38.0101795,0.0 -1.1540365,38.0102303,0.0 -1.1536288,38.0103655,0.0 -1.1556244000000002,38.012259,0.0 -1.1565256000000002,38.0135439,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Etnia Gitana</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6669444999999996,40.3774539,0.0 -3.6661506,40.3767428,0.0 -3.6660540000000004,40.3767919,0.0 -3.664337399999999,40.3753452,0.0 -3.6636615000000012,40.3757457,0.0 -3.6630285,40.3751245,0.0 -3.6611295000000004,40.3762116,0.0 -3.6619234000000005,40.3769063,0.0 -3.6626422,40.3765222,0.0 -3.6634040000000008,40.37720050000001,0.0 -3.6629211999999995,40.37749480000001,0.0 -3.6639404000000004,40.3781078,0.0 -3.6650777000000003,40.3773885,0.0 -3.6659360000000007,40.37812410000001,0.0 -3.6669444999999996,40.3774539,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6163902000000006,40.4333147,0.0 -3.6165243000000005,40.4332943,0.0 -3.6185789,40.43331059999999,0.0 -3.6185627999999994,40.433114599999996,0.0 -3.6185038,40.4330452,0.0 -3.618359,40.43297990000001,0.0 -3.6180961000000003,40.432444999999994,0.0 -3.6178815,40.4319264,0.0 -3.6179191,40.431661,0.0 -3.617758199999999,40.4316936,0.0 -3.6175167999999993,40.4321265,0.0 -3.6174256,40.4321918,0.0 -3.6172003,40.4321183,0.0 -3.6170554000000004,40.432106,0.0 -3.616873,40.432420500000006,0.0 -3.616765700000001,40.4324572,0.0 -3.616181,40.4322694,0.0 -3.6163902000000006,40.4333147,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Okupación</name>
+			<description><![CDATA[Zona de okupación cercana a la C/ Río Orinoco, así como alrededores problemáticos]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6528683,40.3868115,0.0 -3.6528683,40.3842291,0.0 -3.6525679,40.3842128,0.0 -3.6521494000000008,40.3842781,0.0 -3.6517203000000005,40.38446609999999,0.0 -3.6513233,40.3847031,0.0 -3.651173099999999,40.3848747,0.0 -3.6492312,40.383959399999995,0.0 -3.6479437,40.3854141,0.0 -3.6499607999999992,40.386255799999994,0.0 -3.6528683,40.3868115,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.4551411,40.4543357,0.0 -3.4548675999999996,40.4538969,0.0 -3.4537758999999997,40.45409080000001,0.0 -3.4539127000000005,40.454556100000005,0.0 -3.4551170000000004,40.45433570000001,0.0 -3.4551411,40.4543357,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Colonia de los Olivos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7374114999999994,40.40557590000001,0.0 -3.7373096000000006,40.4046773,0.0 -3.7348580000000005,40.4047549,0.0 -3.7349117,40.405531,0.0 -3.7360758,40.4056413,0.0 -3.7374114999999994,40.40557590000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Tiros</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7413168,40.3752716,0.0 -3.7410378000000004,40.3746668,0.0 -3.7408406000000003,40.3743923,0.0 -3.7403297000000006,40.3744706,0.0 -3.7401365999999996,40.373686,0.0 -3.7339139,40.373784099999995,0.0 -3.7292576000000004,40.3778871,0.0 -3.7308884,40.3788188,0.0 -3.7307596000000003,40.3790313,0.0 -3.7325191000000006,40.3795217,0.0 -3.7330126999999993,40.3791294,0.0 -3.7391496,40.3772332,0.0 -3.7398362000000005,40.3772169,0.0 -3.7413168,40.3752716,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 88</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6639564999999994,40.3796157,0.0 -3.6644179,40.37923150000001,0.0 -3.6638707000000004,40.3789128,0.0 -3.6622882,40.3786349,0.0 -3.6620790000000008,40.3791948,0.0 -3.6639564999999994,40.3796157,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Caño Roto</name>
+			<description><![CDATA[Drogas]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7444496,40.3990603,0.0 -3.7456511999999997,40.398758,0.0 -3.746445200000001,40.3984148,0.0 -3.7477219000000006,40.397851,0.0 -3.749427799999999,40.397467,0.0 -3.7509620000000004,40.39694409999999,0.0 -3.7516378999999995,40.3966417,0.0 -3.7518525000000005,40.39633940000001,0.0 -3.751734500000001,40.395939,0.0 -3.7447286,40.3950974,0.0 -3.7438917000000003,40.3953916,0.0 -3.7436342,40.395710300000005,0.0 -3.7444496,40.3990603,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>El Ruedo</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6607218,40.41313660000001,0.0 -3.6593807000000007,40.412564800000006,0.0 -3.6590481,40.4130713,0.0 -3.6585760000000014,40.4130876,0.0 -3.658458,40.41313660000001,0.0 -3.6578679,40.4131611,0.0 -3.6578571999999996,40.4137901,0.0 -3.6573207,40.41424760000001,0.0 -3.6561513,40.4143211,0.0 -3.6562585999999997,40.4145662,0.0 -3.6567521000000003,40.41544840000001,0.0 -3.6571276,40.4154239,0.0 -3.6570310999999998,40.4159957,0.0 -3.657385100000001,40.416681800000006,0.0 -3.657857199999999,40.416404099999994,0.0 -3.6586404,40.4162734,0.0 -3.6595738,40.4148194,0.0 -3.6594129000000004,40.4141087,0.0 -3.6603248,40.4137983,0.0 -3.6607218,40.41313660000001,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Alto de San Isidro</name>
+			<description><![CDATA[Gitanos y drogas]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7246871,40.3969604,0.0 -3.7247407,40.3962741,0.0 -3.7246335,40.3959064,0.0 -3.7235713000000006,40.39549780000001,0.0 -3.7222946,40.3954815,0.0 -3.7211895,40.3954488,0.0 -3.720856900000001,40.3951056,0.0 -3.7196016000000007,40.3957838,0.0 -3.7203418999999993,40.396641699999996,0.0 -3.7206960000000007,40.396511,0.0 -3.7246871,40.3969604,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>calle Álamo</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-5.8997869000000005,37.382161599999996,0.0 -5.899255900000001,37.38192709999999,0.0 -5.8977216,37.3834318,0.0 -5.897726999999999,37.3834776,0.0 -5.897791399999999,37.3839178,0.0 -5.898284899999999,37.3838709,0.0 -5.8987463,37.3830695,0.0 -5.899272,37.3830056,0.0 -5.8997869000000005,37.382161599999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Sant Roc</name>
+			<description><![CDATA[Mayor Colonia Gitana de Europa, gran población pakistaní]]></description>
+			<styleUrl>#poly-DB4436-2-71</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.2233580999999996,41.43094299999999,0.0 2.2245597,41.4319404,0.0 2.2252464,41.431136,0.0 2.2263407,41.4321657,0.0 2.2271776,41.4330022,0.0 2.2302246000000006,41.4357692,0.0 2.225933,41.438343,0.0 2.2206115,41.4353992,0.0 2.2233580999999996,41.43094299999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6235571,40.4234776,0.0 -3.6211216,40.42446579999999,0.0 -3.6220765,40.4258298,0.0 -3.6213898999999996,40.426115599999996,0.0 -3.6225914999999995,40.4277246,0.0 -3.6232245,40.4275041,0.0 -3.6244476000000003,40.4261075,0.0 -3.6252201,40.4257808,0.0 -3.6235571,40.4234776,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Drogas y Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.3319931,39.4527138,0.0 -0.331918,39.4524321,0.0 -0.3321755,39.45166999999999,0.0 -0.3332484,39.4481407,0.0 -0.33605929999999995,39.448480399999994,0.0 -0.33631679999999997,39.446806800000005,0.0 -0.3360057,39.4467406,0.0 -0.3361344,39.4457629,0.0 -0.33561940000000007,39.4455889,0.0 -0.3356946,39.4449427,0.0 -0.3326154,39.4445119,0.0 -0.33151030000000004,39.4456967,0.0 -0.3304696,39.446318,0.0 -0.3310812000000001,39.4470471,0.0 -0.3317142,39.4472874,0.0 -0.3319395,39.4475028,0.0 -0.32878520000000006,39.4495491,0.0 -0.3317249,39.4529872,0.0 -0.3319931,39.4527138,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Las Aves</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6185253,40.0278814,0.0 -3.6142766,40.0281279,0.0 -3.6142015,40.0287276,0.0 -3.6176348,40.0298038,0.0 -3.6185253,40.0278814,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Etnia Gitana</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7062335,40.3495532,0.0 -3.7035941999999995,40.3506161,0.0 -3.7069201,40.35364129999999,0.0 -3.7084650999999997,40.352741900000005,0.0 -3.7124347999999996,40.3543935,0.0 -3.7212539000000002,40.35457340000001,0.0 -3.7217045,40.3547205,0.0 -3.7219191,40.3534778,0.0 -3.7215972,40.3528727,0.0 -3.7203526,40.35256210000001,0.0 -3.717885,40.3518589,0.0 -3.7177348,40.34917699999999,0.0 -3.715052599999999,40.3490626,0.0 -3.7062335,40.3495532,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7650462999999994,40.242267399999996,0.0 -3.7653199,40.241557,0.0 -3.765660500000001,40.241632700000004,0.0 -3.7657517,40.2413399,0.0 -3.7651026000000005,40.2411536,0.0 -3.7646063999999995,40.2412355,0.0 -3.7642577,40.2420832,0.0 -3.7650462999999994,40.242267399999996,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7760085000000005,40.23025439999999,0.0 -3.7764645000000003,40.229447500000006,0.0 -3.775574,40.229083,0.0 -3.7750161000000007,40.2298407,0.0 -3.7760085000000005,40.23025439999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Inmigración</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7752897,40.2446649,0.0 -3.7748042000000006,40.2442882,0.0 -3.7737045000000005,40.2445052,0.0 -3.7744743,40.2452975,0.0 -3.7752897,40.2446649,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Etnia Gitana</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.914635800000001,38.9846075,0.0 -3.9144105000000002,38.9847075,0.0 -3.9141851999999995,38.9853622,0.0 -3.914866400000001,38.9860544,0.0 -3.9151561,38.9860669,0.0 -3.9154243,38.986008500000004,0.0 -3.915118600000001,38.9851912,0.0 -3.915225900000001,38.9851662,0.0 -3.9150381,38.9845533,0.0 -3.914635800000001,38.9846075,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6843038,40.3541482,0.0 -3.6875546,40.3531507,0.0 -3.6885953,40.3523168,0.0 -3.6886597,40.3517036,0.0 -3.6865354,40.351679,0.0 -3.6862135,40.3507633,0.0 -3.6843359,40.3510413,0.0 -3.6842072,40.3512866,0.0 -3.6841106,40.3513765,0.0 -3.6843038,40.3541482,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.7936225,37.8946509,0.0 -4.7931719,37.8934656,0.0 -4.7886443,37.894617,0.0 -4.7889876,37.8957685,0.0 -4.7934294,37.8947186,0.0 -4.7936225,37.8946509,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.8229122,37.8806289,0.0 -4.8191679,37.8811201,0.0 -4.8199725,37.8851847,0.0 -4.8214531,37.8847867,0.0 -4.8230195,37.8815519,0.0 -4.8229122,37.8806289,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-4.7823572,37.8651644,0.0 -4.7836018,37.8637414,0.0 -4.7841167,37.8624878,0.0 -4.7849321,37.8616747,0.0 -4.7877645,37.8593368,0.0 -4.7882795,37.8583204,0.0 -4.7861767,37.8570328,0.0 -4.7836018,37.856084,0.0 -4.7812843,37.8556097,0.0 -4.7780657,37.8561179,0.0 -4.776392,37.8572022,0.0 -4.7746754,37.8583881,0.0 -4.7735596,37.859303,0.0 -4.7727013,37.8612342,0.0 -4.7729588,37.862149,0.0 -4.7732162,37.8630299,0.0 -4.7737312,37.8645207,0.0 -4.7737741,37.8657404,0.0 -4.774375,37.8667229,0.0 -4.7752333,37.8664179,0.0 -4.7764778,37.8660114,0.0 -4.7780657,37.8659097,0.0 -4.7793102,37.8658759,0.0 -4.7807264,37.8657065,0.0 -4.7823572,37.8651644,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Drogas</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7004372,40.4085578,0.0 -3.7002361,40.4084741,0.0 -3.6979106,40.4104715,0.0 -3.6981064,40.4105859,0.0 -3.7004372,40.4085578,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6192495,40.4271651,0.0 -3.6179942,40.4277082,0.0 -3.6190563,40.429117,0.0 -3.6203545,40.4285658,0.0 -3.6192495,40.4271651,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Zona complicada, okupaciones</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.6929297,40.3529545,0.0 -3.6906552,40.3529627,0.0 -3.6892712,40.353952,0.0 -3.6894858,40.3566582,0.0 -3.6930692,40.3565274,0.0 -3.6929297,40.3529545,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Gitanos</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.704989,40.3642203,0.0 -3.7020707,40.3643674,0.0 -3.7019634,40.3646944,0.0 -3.7016201,40.36458,0.0 -3.7012553,40.364629,0.0 -3.7010837,40.3648742,0.0 -3.7009335,40.3650704,0.0 -3.6995387,40.3709886,0.0 -3.7033796,40.3711031,0.0 -3.704989,40.3642203,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Realojo</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.7405229,40.3954733,0.0 -3.7409842,40.3945582,0.0 -3.7403297,40.3943212,0.0 -3.739804,40.3938881,0.0 -3.7387848,40.3946399,0.0 -3.7381089,40.3958247,0.0 -3.7377548,40.3963067,0.0 -3.7387419,40.3967235,0.0 -3.7397504,40.3952037,0.0 -3.7405229,40.3954733,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Conflictivo</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.7920884,41.9725809,0.0 2.7921796,41.9722858,0.0 2.7925229,41.9723336,0.0 2.7924156,41.9726447,0.0 2.7920884,41.9725809,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Inmigración</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.7980912,41.9750695,0.0 2.798413,41.9738173,0.0 2.8004622,41.9741403,0.0 2.7998346,41.9752769,0.0 2.7980912,41.9750695,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Inmigración</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>2.7933598,41.9754205,0.0 2.7907312,41.9750775,0.0 2.7895939,41.9748701,0.0 2.7845728,41.9733945,0.0 2.7854526,41.9716397,0.0 2.7938962,41.9730196,0.0 2.7935529,41.9746707,0.0 2.7934563,41.9746867,0.0 2.7933598,41.9754205,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Polígono 108</name>
+			<styleUrl>#poly-DB4436-2-71-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-0.370928,39.4962588,0.0 -0.3692007,39.4956462,0.0 -0.3681171,39.4948513,0.0 -0.3670549,39.4957786,0.0 -0.3682673,39.4966148,0.0 -0.3706169,39.4973599,0.0 -0.3707135,39.4967721,0.0 -0.370928,39.4962588,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Style id='poly-DB4436-2-71-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-DB4436-2-71-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-2-71'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-2-71-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-2-71-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-DB4436-2-71-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-DB4436-2-71-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>473644DB</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-DB4436-2-71-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-DB4436-2-71-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-DB4436-2-71-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
