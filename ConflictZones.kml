@@ -1372,54 +1372,45 @@
 				<fill>1</fill>
 				<outline>1</outline>
 			</PolyStyle>
-		</Style>
-		<StyleMap id='poly-DB4436-2-71'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-DB4436-2-71-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-DB4436-2-71-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-		<Style id='poly-DB4436-2-71-nodesc-normal'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>2</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>473644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<Style id='poly-DB4436-2-71-nodesc-highlight'>
-			<LineStyle>
-				<color>ff3644DB</color>
-				<width>3.0</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>473644DB</color>
-				<fill>1</fill>
-				<outline>1</outline>
-			</PolyStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
-		<StyleMap id='poly-DB4436-2-71-nodesc'>
-			<Pair>
-				<key>normal</key>
-				<styleUrl>#poly-DB4436-2-71-nodesc-normal</styleUrl>
-			</Pair>
-			<Pair>
-				<key>highlight</key>
-				<styleUrl>#poly-DB4436-2-71-nodesc-highlight</styleUrl>
-			</Pair>
-		</StyleMap>
-	</Document>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+  <Style id="polygon_style">
+    <LineStyle>
+      <color>ff000000</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>7FAAAAAA</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <Placemark>
+    <name>Fremont Troll</name>
+    <description>
+       
+    </description>
+    <Point>
+      <coordinates>-122.3473413,47.651119,0</coordinates>
+    </Point>
+  </Placemark>
+
+  <Placemark>
+    <name>Fremont</name>
+    <styleUrl>#polygon_style</styleUrl>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+            -122.3550974911330,47.6621379460780,0.000000
+            -122.3545755477560,47.6621309868331,0.000000
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
 </kml>
